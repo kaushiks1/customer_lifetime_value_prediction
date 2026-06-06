@@ -1,0 +1,30 @@
+file,column,description
+customer_clv_dataset.csv,customer_id,Unique anonymous customer identifier
+customer_clv_dataset.csv,customer_segment_seed,Synthetic behavioural group used to generate realistic patterns; excluded from modelling
+customer_clv_dataset.csv,country,Customer country
+customer_clv_dataset.csv,primary_device,Primary device used by customer
+customer_clv_dataset.csv,acquisition_channel,Marketing channel that acquired the customer
+customer_clv_dataset.csv,acquisition_date,Date customer was acquired
+customer_clv_dataset.csv,tenure_days,Days since customer acquisition
+customer_clv_dataset.csv,recency_days,Days since most recent purchase or meaningful activity
+customer_clv_dataset.csv,frequency_12m,Number of purchases in the last 12 months
+customer_clv_dataset.csv,avg_order_value_gbp,Average order value in GBP
+customer_clv_dataset.csv,historical_revenue_12m_gbp,Historical customer revenue in last 12 months
+customer_clv_dataset.csv,gross_margin_rate,Estimated gross margin percentage
+customer_clv_dataset.csv,historical_margin_12m_gbp,Historical margin after returns
+customer_clv_dataset.csv,discount_usage_rate,Share of purchases where discount was used
+customer_clv_dataset.csv,return_rate,Share of orders returned
+customer_clv_dataset.csv,sessions_90d,Website sessions in last 90 days
+customer_clv_dataset.csv,product_views_90d,Product views in last 90 days
+customer_clv_dataset.csv,cart_additions_90d,Cart additions in last 90 days
+customer_clv_dataset.csv,email_open_rate,Customer email engagement rate
+customer_clv_dataset.csv,support_tickets_12m,Support tickets raised in last 12 months
+customer_clv_dataset.csv,churn_risk_score,Synthetic churn risk score between 0 and 1
+customer_clv_dataset.csv,future_clv_12m_gbp,Target variable: future predicted 12-month customer lifetime value in GBP
+transactions.csv,transaction_id,Unique transaction identifier
+transactions.csv,customer_id,Unique anonymous customer identifier
+transactions.csv,transaction_date,Transaction date
+transactions.csv,order_value_gbp,Transaction order value in GBP
+transactions.csv,discount_used,1 if discount was used
+transactions.csv,returned,1 if order was returned
+transactions.csv,channel,Transaction channel

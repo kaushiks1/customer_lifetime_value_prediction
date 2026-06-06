@@ -1,0 +1,35 @@
+feature,importance
+historical_margin_12m_gbp,0.8615443954014478
+avg_order_value_gbp,0.01337827521747026
+email_open_rate,0.013118054414738515
+tenure_days,0.012671983358609239
+historical_revenue_12m_gbp,0.011328443183955608
+gross_margin_rate,0.011188176161114243
+discount_usage_rate,0.010639497767995986
+recency_days,0.01010831137628696
+return_rate,0.009508598378056173
+churn_risk_score,0.009366776285561306
+product_views_90d,0.008534235196401828
+cart_additions_90d,0.0062387190198071206
+sessions_90d,0.005702096162132744
+support_tickets_12m,0.004162474506936807
+frequency_12m,0.0037349744690885213
+acquisition_channel_Organic Search,0.002292210796451654
+country_United Kingdom,0.0013375371438297768
+country_Netherlands,0.0010594509051546277
+primary_device_Mobile,0.0008310468032802977
+primary_device_Desktop,0.0007081482752466419
+acquisition_channel_Paid Social,0.0005251738212515763
+acquisition_channel_Paid Search,0.000488915599066794
+acquisition_channel_Direct,0.0002879686459932268
+country_United States,0.00028217427818949667
+acquisition_channel_Email,0.00017643042674003935
+country_India,0.00013589065290525336
+country_France,0.00012074025510358653
+acquisition_channel_Affiliate,0.00011742730558686741
+country_Canada,9.081618147575203e-05
+country_Australia,8.178818114972182e-05
+acquisition_channel_Referral,7.738010673764072e-05
+country_Germany,7.049667571274154e-05
+acquisition_channel_Display,5.376530241189995e-05
+primary_device_Tablet,3.762774410910453e-05
