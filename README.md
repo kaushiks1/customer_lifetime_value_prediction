@@ -1,1 +1,1 @@
-# data-projects
+# customer_lifetime_value_prediction
